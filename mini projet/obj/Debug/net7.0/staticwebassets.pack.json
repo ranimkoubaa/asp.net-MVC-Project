@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\mini_projet.bundle.scp.css",
+      "PackagePath": "staticwebassets\\mini_projet.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\05509cd1-a0c1-49cb-beaa-ad504629576d_plus.png",
+      "PackagePath": "staticwebassets\\images\\05509cd1-a0c1-49cb-beaa-ad504629576d_plus.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\329f9f0d-d1f7-446b-8839-03516b4aef11_delete.png",
+      "PackagePath": "staticwebassets\\images\\329f9f0d-d1f7-446b-8839-03516b4aef11_delete.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\4279426f-8459-4db0-b42d-4ac39543251e_sight.png",
+      "PackagePath": "staticwebassets\\images\\4279426f-8459-4db0-b42d-4ac39543251e_sight.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\46b53b92-7b8b-4027-bbee-17c52f1abf2b_sight.png",
+      "PackagePath": "staticwebassets\\images\\46b53b92-7b8b-4027-bbee-17c52f1abf2b_sight.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\4bf30268-3746-4103-aaf4-f4736abeae44_plus.png",
+      "PackagePath": "staticwebassets\\images\\4bf30268-3746-4103-aaf4-f4736abeae44_plus.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\6d351dea-99b9-4d9d-9207-f5d9a55357f8_plant2.jpg",
+      "PackagePath": "staticwebassets\\images\\6d351dea-99b9-4d9d-9207-f5d9a55357f8_plant2.jpg"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\708f61e6-e8dc-4ee7-903e-d87ec361354c_plus.png",
+      "PackagePath": "staticwebassets\\images\\708f61e6-e8dc-4ee7-903e-d87ec361354c_plus.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\7d51120e-72bf-4157-9367-d572084141e7_Houseplants_in_Michigan.jpg",
+      "PackagePath": "staticwebassets\\images\\7d51120e-72bf-4157-9367-d572084141e7_Houseplants_in_Michigan.jpg"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\8a4973a6-20c3-41d3-873f-e21a3f2475e6_fleurs.jpg",
+      "PackagePath": "staticwebassets\\images\\8a4973a6-20c3-41d3-873f-e21a3f2475e6_fleurs.jpg"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\8d16a782-c1f9-4b94-beb0-144faa72ed94_xCxqqffh0omF8goJMrfGYN1oinw.jpg",
+      "PackagePath": "staticwebassets\\images\\8d16a782-c1f9-4b94-beb0-144faa72ed94_xCxqqffh0omF8goJMrfGYN1oinw.jpg"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\93f74510-5751-4100-8e53-b7773623170c_sight.png",
+      "PackagePath": "staticwebassets\\images\\93f74510-5751-4100-8e53-b7773623170c_sight.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\9d6e3fe6-90f6-488c-925e-143b840a7cd8_plant1.jpg",
+      "PackagePath": "staticwebassets\\images\\9d6e3fe6-90f6-488c-925e-143b840a7cd8_plant1.jpg"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\a0587580-9cd6-47b0-891d-66bfb0f079e6_plus.png",
+      "PackagePath": "staticwebassets\\images\\a0587580-9cd6-47b0-891d-66bfb0f079e6_plus.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\add.png",
+      "PackagePath": "staticwebassets\\images\\add.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\b52ffefd-b6ea-4b0f-a91b-7ba0919a393a_plus.png",
+      "PackagePath": "staticwebassets\\images\\b52ffefd-b6ea-4b0f-a91b-7ba0919a393a_plus.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\b9168b41-7db2-47a5-95c7-79e49f32b31c_MonsteraDeliciosa6inpot_500x400@2x.webp",
+      "PackagePath": "staticwebassets\\images\\b9168b41-7db2-47a5-95c7-79e49f32b31c_MonsteraDeliciosa6inpot_500x400@2x.webp"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\banner.png",
+      "PackagePath": "staticwebassets\\images\\banner.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\c61d7418-0f31-448d-9b8b-02d8bb5e6bbd_PearlsandJadePothos4inpot_500x400@2x.webp",
+      "PackagePath": "staticwebassets\\images\\c61d7418-0f31-448d-9b8b-02d8bb5e6bbd_PearlsandJadePothos4inpot_500x400@2x.webp"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\ceaeb29e-cb8c-4ac7-90d1-717a743ad11c_delete.png",
+      "PackagePath": "staticwebassets\\images\\ceaeb29e-cb8c-4ac7-90d1-717a743ad11c_delete.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\dd68d892-7ecf-456d-85c2-1e0f91928949_plus.png",
+      "PackagePath": "staticwebassets\\images\\dd68d892-7ecf-456d-85c2-1e0f91928949_plus.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\delete.png",
+      "PackagePath": "staticwebassets\\images\\delete.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\editing.png",
+      "PackagePath": "staticwebassets\\images\\editing.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\eff05516-9c24-441e-ab3e-278932d59b79_MonsteraDeliciosa6inpot_500x400@2x.webp",
+      "PackagePath": "staticwebassets\\images\\eff05516-9c24-441e-ab3e-278932d59b79_MonsteraDeliciosa6inpot_500x400@2x.webp"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\monstera.png",
+      "PackagePath": "staticwebassets\\images\\monstera.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\noaccess.png",
+      "PackagePath": "staticwebassets\\images\\noaccess.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\plus.png",
+      "PackagePath": "staticwebassets\\images\\plus.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\remove.png",
+      "PackagePath": "staticwebassets\\images\\remove.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\sight.png",
+      "PackagePath": "staticwebassets\\images\\sight.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\images\\trash.png",
+      "PackagePath": "staticwebassets\\images\\trash.png"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\js\\CustomScript.js",
+      "PackagePath": "staticwebassets\\js\\CustomScript.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\js\\Scripts\\MonScript.js",
+      "PackagePath": "staticwebassets\\js\\Scripts\\MonScript.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\DSI\\semestre 2\\mini projet\\mini projet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.mini_projet.props",
+      "PackagePath": "build\\mini_projet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.mini_projet.props",
+      "PackagePath": "buildMultiTargeting\\mini_projet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.mini_projet.props",
+      "PackagePath": "buildTransitive\\mini_projet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.mini_projet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

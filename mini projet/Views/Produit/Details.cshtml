@@ -1,0 +1,47 @@
+﻿@model mini_projet.Models.Produit
+
+@{
+    ViewData["Title"] = "Details";
+    var photo = "~/images/" + (Model.Image);
+}
+
+<h2 class="text-center text-secondary mt-4">Product details</h2>
+
+<div>
+    <dl class="row m-5">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nom)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nom)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Prix)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Prix)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Categorie)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Categorie.Nom)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Quantite)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Quantite)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+        <dd class = "col-sm-10">
+            <img src="@photo" asp-append-version="true" height="120" width="120" />
+        </dd>
+    </dl>
+</div>
+<div class="ms-5">
+    <a asp-action="Edit" asp-route-id="@Model?.ProduitId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

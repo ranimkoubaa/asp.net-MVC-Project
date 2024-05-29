@@ -1,0 +1,35 @@
+﻿@model mini_projet.Models.Categorie
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2 class="text-center text-secondary mt-4">Details category</h2>
+
+<div>
+  
+
+    <table class="row ms-5">
+        <th class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CategorieId)
+        </th>
+        <th class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nom)
+        </th>
+       
+        <tr>
+            <td class="col-sm-10">
+                @Html.DisplayFor(model => model.CategorieId)
+            </td>
+        <td class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nom)
+        </td>
+        
+        </tr>
+
+    </table>
+</div>
+<div class="ms-5">
+    <a asp-action="Edit" asp-route-id="@Model?.CategorieId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,89 @@
+﻿    @model IEnumerable<mini_projet.Models.Produit>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@{
+    ViewData["Title"] = "Products";
+
+}
+
+<h2 class="text-center text-secondary mt-4">List of products</h2>
+@if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+{
+    <p>
+        <a asp-action="Create" class="ms-4">Create new product</a>
+    </p>
+    <table class="table ms-3 text-center table-striped align-middle">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nom)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Prix)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Categorie)
+
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Quantite)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Image)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="text-center">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nom)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Prix)
+                    </td>
+                    <td>
+
+                        @Html.DisplayFor(modelItem => item.Categorie.Nom)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantite)
+                    </td>
+                    <td>
+                        <img src="~/images/@item.Image" alt="Product Image" width="100" height="100" />
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.ProduitId">Edit<img class="actionimg" src="~/images/editing.png"/></a> |
+                        <a asp-action="Details" asp-route-id="@item.ProduitId">View<img class="actionimg" src="~/images/sight.png" /></a> |
+                        <a asp-action="Delete" asp-route-id="@item.ProduitId">Delete<img class="actionimg" src="~/images/delete.png" /></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else {
+        <div class="card-group">
+        @foreach (var product in Model)
+        {
+        var photoPath = "~/images/" + (product.Image ?? "noimage.jpg");
+        <div class="card m-3 ms-5 text-center" style="min-width: 18rem; max-width:20%;">
+        <div class="card-header">
+        <h5><b>Désignation : </b> @product.Nom</h5>
+        <h5><b>Prix : </b>@product.Prix</h5>
+        <h5><b>Quantité : </b> @product.Quantite</h5>
+        <h5><b>Quantité : </b> @product.Categorie.Nom</h5>
+        </div>
+        <img class="card-img-top imageThumbnail h-75 w-100" src="@photoPath" asp-append-version="true" />
+        <div class="card-footer text-center">
+                    @if (SignInManager.IsSignedIn(User))
+                    {
+                        @Html.ActionLink("Ajouter au panier »", "AjouterProduit", "Panier", new { id = @product.ProduitId }, "")
+                    }
+        </div>
+        </div>
+        }
+    </div>
+}

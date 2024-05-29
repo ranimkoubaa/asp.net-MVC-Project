@@ -1,0 +1,65 @@
+﻿@model IEnumerable<mini_projet.Models.Categorie>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@{
+    ViewData["Title"] = "Index";
+
+}
+
+<h2 class="text-center text-secondary mt-4">List of categories</h2>
+<form class="form-inline my-2 my-lg-0 ms-5" asp-action="Search" asp-controller="Categorie">
+    <p>
+        <input size="30" placeholder="tapez un Nom" type="search" name="name" />
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Recherche</button>
+    </p>
+</form>
+@if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+{
+    <p>
+        <a asp-action="Create" class="ms-4">Create new category</a>
+    </p>
+    <table class="table ms-3 text-center table-striped">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nom)
+                </th>
+                <th>
+                    Actions
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nom)
+                    </td>  
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.CategorieId">Edit<img class="actionimg" src="~/images/editing.png"/></a> |
+                        <a asp-action="Details" asp-route-id="@item.CategorieId">View<img class="actionimg" src="~/images/sight.png" /></a> |
+                        <a asp-action="Delete" asp-route-id="@item.CategorieId">Delete<img class="actionimg" src="~/images/delete.png" /></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+</table>
+}
+else {
+      <div class="row justify-content-between">
+        @foreach (var cat in Model)
+        {
+                    <div class="col-4">
+            <div class="card text-center m-5">
+                <div class="">
+                <h5><b></b> @cat.Nom</h5>
+                       
+                </div>
+                </div>
+            
+        </div>
+        }
+    </div>
+}
